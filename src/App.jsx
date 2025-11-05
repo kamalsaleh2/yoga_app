@@ -11,6 +11,7 @@ const initialCards = [
   { id: 6, question: 'Mountain Pose', answer: 'Tadasana - Stand with feet together, distribute weight evenly, engage thighs, lengthen spine, arms at sides or overhead. Foundation pose.', image: null },
   { id: 7, question: 'Warrior II', answer: 'Virabhadrasana II - Similar to Warrior I but open hips to the side, extend arms parallel to ground, gaze over front fingertips', image: null },
   { id: 8, question: 'Cat-Cow Pose', answer: 'Marjaryasana-Bitilasana - On hands and knees, alternate between arching back (cow) and rounding spine (cat), synchronized with breath', image: null },
+  { id: 9, question: 'Triangle Pose', answer: 'Trikonasana - Stand with feet wide apart, turn one foot out 90 degrees, extend arms parallel to floor, reach forward and down to place hand on shin or floor, extend other arm upward, gaze at top hand', image: null },
 ]
 
 function App() {
